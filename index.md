@@ -77,4 +77,5 @@ View [Artifact Three Enhancement](https://github.com/KameronHinmanMitchell/CS-49
 
 ## Contact
 
-Github: (https://github.com/KameronHinmanMitchell)
+Github: [https://github.com/KameronHinmanMitchell](https://github.com/KameronHinmanMitchell)
+
